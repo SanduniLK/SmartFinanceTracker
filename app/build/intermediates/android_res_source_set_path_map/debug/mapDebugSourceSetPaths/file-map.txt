@@ -1,0 +1,8 @@
+com.example.smartfinancetracker.app-pngs-0 F:\SmartFinanceTracker\app\build\generated\res\pngs\debug
+com.example.smartfinancetracker.app-updated_navigation_xml-1 F:\SmartFinanceTracker\app\build\generated\updated_navigation_xml\debug
+com.example.smartfinancetracker.app-packageDebugResources-2 F:\SmartFinanceTracker\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.smartfinancetracker.app-packageDebugResources-3 F:\SmartFinanceTracker\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.smartfinancetracker.app-debug-4 F:\SmartFinanceTracker\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.smartfinancetracker.app-debug-5 F:\SmartFinanceTracker\app\src\debug\res
+com.example.smartfinancetracker.app-main-6 F:\SmartFinanceTracker\app\src\main\res
+gradleHome-0 C:\Users\RSG\.gradle
